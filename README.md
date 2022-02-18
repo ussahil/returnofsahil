@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sahil bhandari
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning react
+- 💞️ I have made a couple of professional sites for clients. Eg;- https://www.prvcollection.com/
 - 📫 How to reach me returnofsahil@gmail.com
 
 <!---
